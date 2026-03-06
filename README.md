@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/@Rosegkbot)
+# Pyrogram and Telethon String Session Bot [@Rosegkbot(https://t.me/@Rosegkbot)
 
 > A star ⭐ from you means a lot to us!
 
@@ -76,9 +76,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/Your_Sukoon)
+Channel :- [@@Rosegkbot(https://t.me/Your_Sukoon)
 
-Group Chat :- [@StarkBotsChat](https://t.me/Itz_Quiz 
+Group Chat :- [@Rosegkbot](https://t.me/Itz_Quiz 
 
 ## :)
 
